@@ -1,6 +1,9 @@
+body, html {
+    background: #000;
+}
 canvas {
     position: relative;
     display: block;
-    outline: 1px solid #888;
-    touch-action: none;
+    outline: 1px solid #333;
+    background: #fff;
 }
