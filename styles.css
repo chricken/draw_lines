@@ -1,0 +1,6 @@
+canvas {
+    position: relative;
+    display: block;
+    outline: 1px solid #888;
+    touch-action: none;
+}
